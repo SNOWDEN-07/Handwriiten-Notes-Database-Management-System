@@ -1,4 +1,5 @@
  📘 Handwritten Notes: Database Management System (DBMS)
+ **Link to access: https://drive.google.com/file/d/1PbxxXnc9MJxWBupjV1RAugP5lRMspEkV/view?usp=drive_link**
 
 Welcome to my collection of handwritten notes for Database Management System (DBMS). These notes are prepared with clarity and focus to help students, developers, and learners grasp key DBMS concepts quickly and effectively.
 
